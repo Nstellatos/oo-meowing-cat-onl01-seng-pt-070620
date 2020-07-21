@@ -5,7 +5,8 @@ def=(meow)
 @meow = meow
 end
 def meow
-  puts @meow
+ @meow
 end
+puts @meow
 end
 
