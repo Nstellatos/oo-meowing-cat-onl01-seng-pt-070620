@@ -7,4 +7,4 @@ end
 def meow
  @meow
 end
-end
+
